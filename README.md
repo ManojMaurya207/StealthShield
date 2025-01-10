@@ -1,5 +1,5 @@
+<img src="screenshots/app_logo.png" alt="Home Screen" height="300" width="300">
 # StealthShield  
-<img src="screenshots/App_logo_1.png" alt="Home Screen" height="300" width="300">
 A comprehensive mobile theft security solution that protects your smartphone and helps you recover it in case of theft.
 
 ## 🚀 Features  
