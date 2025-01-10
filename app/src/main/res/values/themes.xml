@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.StealthShield" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="AlertDialogCustom" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/teal_200</item>
+        <item name="android:background">@color/power_menu_bg</item>
+    </style>
+</resources>

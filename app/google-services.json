@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954516013158",
+    "firebase_url": "https://stealthshield-6ee5a-default-rtdb.firebaseio.com",
+    "project_id": "stealthshield-6ee5a",
+    "storage_bucket": "stealthshield-6ee5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954516013158:android:9c3ff0cd3c02f7a16d6da7",
+        "android_client_info": {
+          "package_name": "com.example.stealthshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954516013158-felv5o39ol94i280t0udq3f017pculmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x8h-Z_f6-1Xze0j3nNytaBbBcgLGeLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954516013158-felv5o39ol94i280t0udq3f017pculmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
