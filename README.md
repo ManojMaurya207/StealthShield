@@ -31,13 +31,13 @@ A comprehensive mobile theft security solution that protects your smartphone and
 ## 🔍 Screenshots  
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home_screen.jpg)
 
 ### SOS Contact Feature
-![SOS Feature](screenshots/sos_feature.png)
+![SOS Feature](screenshots/sos_feature.jpg)
 
 ### Geofence Management
-![Geofence Management](screenshots/geofence_management.png)
+![Geofence Management](screenshots/geofence_management.jpg)
 
 ## ✨ Why StealthShield?  
 StealthShield was developed out of a personal experience of losing a phone. The sense of helplessness during that time motivated me to create an app that ensures others don’t have to face similar challenges. StealthShield combines preventive and reactive measures for holistic security.  
