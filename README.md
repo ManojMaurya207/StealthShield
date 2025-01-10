@@ -1,5 +1,5 @@
 # StealthShield  
-![StealthShield](screenshots/App_logo_1.png)
+<img src="screenshots/App_logo_1.png" alt="Home Screen" height="300" width="300">
 A comprehensive mobile theft security solution that protects your smartphone and helps you recover it in case of theft.
 
 ## 🚀 Features  
@@ -20,7 +20,6 @@ A comprehensive mobile theft security solution that protects your smartphone and
   - Lottie for animations  
   - Coil for image loading  
   - Accompanist Navigation for animations  
-  - CameraX for front-camera capture  
 
 ## 📖 How It Works  
 1. **Fake Shutdown**: When an unauthorized power-off attempt is made, the app captures a photo using the front camera and sends it along with the location to the owner's email.  
@@ -34,12 +33,12 @@ StealthShield was developed out of a personal experience of losing a phone. The 
 
 ## 🌟 Future Plans  
 - Integration with theft-prone area alerts.  
-- Expand compatibility to iOS.  
+- Intruder Captures.  
 
 ## 💻 Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/StealthShield.git  
+   git clone https://github.com/ManojMaurya207/StealthShield  
    ```  
 2. Open the project in Android Studio.  
 3. Add your Firebase configuration file (`google-services.json`) to the `app` folder.  
