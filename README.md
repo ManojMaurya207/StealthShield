@@ -1,5 +1,5 @@
-![StealthShield](screenshots/App_logo_1.png)
 # StealthShield  
+![StealthShield](screenshots/App_logo_1.png)
 A comprehensive mobile theft security solution that protects your smartphone and helps you recover it in case of theft.
 
 ## 🚀 Features  
