@@ -40,10 +40,9 @@ class MainActivity : ComponentActivity() {
 
         val authViewModel = AuthViewModel(this, Identity.getSignInClient(this))
         if (!Places.isInitialized()) {
-            Places.initialize(applicationContext, "AIzaSyCjSQbeCTveWAPdTxwz-ZbePb2S7Wyqne8")  // Replace with your API key
+            Places.initialize(applicationContext, "<Google-api-key>")  // Replace with your API key
         }
 
-        //Dhruv API  AIzaSyCQ0cuGu8Mh9S5ipfbOKEUWygW-Nw421uQ
 
         setContent {
             StealthShieldTheme {
